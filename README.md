@@ -1,10 +1,10 @@
 # CNN Keras - Análise de Sensibilidade
 
-##Grupo: 
+## Grupo: 
 
 Felipe Maciel, Cheldon Andrade, Luiz Neto e Vitor Barbosa
 
-##Problema proposto:
+## Problema proposto:
 
 Base de Dados - MNIST
 Treinamento - 60.000 exemplos
@@ -12,7 +12,7 @@ Teste - 10.000 exemplos
 
 Definir uma simples rede Convolucional com o Keras
 
-##Realizar uma análise de sensibilidade variando os seguintes parâmetros e hiperparâmetros:
+## Realizar uma análise de sensibilidade variando os seguintes parâmetros e hiperparâmetros:
 
 1) Número de camadas convolucionais e filtros ( pelo menos 4 variações)
 2) Dropout - 4 valores
