@@ -1,16 +1,20 @@
 # CNN Keras - Análise de Sensibilidade
 
+Desenvolver uma Análise de Sensibilidade para o projeto da cadeira de Redes Neurais do curso de Engenharia da Computação - POLI/UPE.
+
 ## Grupo: 
 
-Felipe Maciel, Cheldon Andrade, Luiz Neto e Vitor Barbosa
+- Cheldon Andrade
+- Felipe Maciel
+- Luiz Cordeiro
+- Vitor Barbosa
 
 ## Problema proposto:
 
-Base de Dados - MNIST
-Treinamento - 60.000 exemplos
-Teste - 10.000 exemplos
-
-Definir uma simples rede Convolucional com o Keras
+- Base de Dados - MNIST
+- Treinamento - 60.000 exemplos
+- Teste - 10.000 exemplos
+- Definir uma simples Rede Convolucional com o Keras
 
 ## Realizar uma análise de sensibilidade variando os seguintes parâmetros e hiperparâmetros:
 
